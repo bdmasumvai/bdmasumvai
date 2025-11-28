@@ -4,14 +4,14 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Welcome+to+my+GitHub+Profile;Exploring+the+World+of+Code;Learning+Every+Day)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jubairbro&label=Profile%20views&color=0e75b6&style=flat" alt="jubairbro" /> 
-  <img src="https://img.shields.io/github/followers/jubairbro?label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=bdmasumvai&label=Profile%20views&color=0e75b6&style=flat" alt="bdmasumvai" /> 
+  <img src="https://img.shields.io/github/followers/bdmasumvai?label=Followers" alt="Followers" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jubairbro&theme=onedark&row=2&column=3" alt="jubairbro" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bdmasumvai&theme=onedark&row=2&column=3" alt="bdmasumvai" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bdmasumvai&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jubairbro&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bdmasumvai&theme=radical" />
 </div>
 
 <div align="center">
